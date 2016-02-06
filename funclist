@@ -1,0 +1,13 @@
+_init: CODE, 658 0 80
+_digit_pair_sign: STRING, 630 0 16
+_digit_pair_left: STRING, 598 0 16
+__stringtab: STRING, 512 0 6
+_i: STRING, 550 0 24
+_j: STRING, 574 0 24
+_main: CODE, 314 0 180
+__initialization: CODE, 738 0 11
+_digit_code: STRING, 518 0 32
+_digit_pair_right: STRING, 614 0 16
+_interrupt_handler: CODE, 19 0 295
+_seg: STRING, 0 0 658
+Total: 1358
